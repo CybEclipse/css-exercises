@@ -1,1 +1,8 @@
-/* Add CSS Styling */
+.inverted {
+    background-color: black;
+    color: white;
+}
+
+.fancy {
+    background-color: yellow;
+}
